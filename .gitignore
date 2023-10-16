@@ -1,0 +1,6 @@
+.vscode
+.history
+
+# Cache
+01\__pycache__
+02\__pycache__
